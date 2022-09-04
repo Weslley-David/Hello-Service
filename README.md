@@ -1,15 +1,15 @@
 ![Hello Service](https://user-images.githubusercontent.com/48967791/188336206-56c5a4d7-8830-4e32-928e-5eb6f3110694.png)
 
-#Plataforma de serviços com foco em atendimento de restaurantes sob demanda
+## 🥂 Plataforma de serviços com foco em atendimento de restaurantes sob demanda 🍴 ##
 
-## Colaboradores ##
+### Colaboradores ###
 
 <a href="https://github.com/Brunodrc" target="_blank">Brunodrc</a><br/>
 <a href="https://github.com/MathLevi20" target="_blank">MathLevi20</a><br/>
 <a href="https://github.com/ViniR-RB" target="_blank">ViniR-RB</a><br/>
 <a href="https://github.com/Weslley-David" target="_blank">Weslley-David</a>
 
-## Informações Adicionais ##
+### Informações Adicionais ###
 
 <a href="https://github.com/Weslley-David/Hello-Service/tree/main/Documents" target="_blank">Documentos</a><br/>
 <a href="https://www.figma.com/file/baN3nXA1MCxhm0tP3tsqAy/Hello-Service?node-id=0%3A1" target="_blank">Wireframes</a>
