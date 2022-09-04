@@ -9,4 +9,8 @@
 <a href="https://github.com/ViniR-RB" target="_blank">ViniR-RB</a><br/>
 <a href="https://github.com/Weslley-David" target="_blank">Weslley-David</a>
 
-## Documento de Elaboração ##
+## Informações Adicionais ##
+
+<a href="https://github.com/Weslley-David/Hello-Service/tree/main/Documents" target="_blank">Documentos</a><br/>
+<a href="https://www.figma.com/file/baN3nXA1MCxhm0tP3tsqAy/Hello-Service?node-id=0%3A1" target="_blank">Wireframes</a>
+
