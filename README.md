@@ -12,5 +12,5 @@
 ### Informações Adicionais ###
 
 <a href="https://www.figma.com/file/baN3nXA1MCxhm0tP3tsqAy/Hello-Service?node-id=0%3A1" target="_blank">Wireframes</a></br>
-<a href="https://docs.google.com/document/d/1trBeHtghoDxm96-NQF_BfkS4ROPoGwr0uIZtoe8wEx0/edit?pli=1#heading=h.eb4dtta35hpy" target="_blank">Documento</a>
+<a href="https://docs.google.com/document/d/1trBeHtghoDxm96-NQF_BfkS4ROPoGwr0uIZtoe8wEx0/edit?usp=sharing" target="_blank">Documento</a>
 
