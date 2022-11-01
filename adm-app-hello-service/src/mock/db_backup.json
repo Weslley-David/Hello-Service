@@ -1,0 +1,71 @@
+﻿{
+  "Usuarios": [
+    {
+      "id": 0,
+      "Nome": "Bruno",
+      "cpf": "08229970025"
+    },
+    {
+      "id": 1,
+      "Nome": "Levi",
+      "cpf": "08229970021"
+    },
+    {
+      "id": 2,
+      "Nome": "Ely",
+      "cpf": "47202241056"
+    },
+    {
+      "id": 3,
+      "Nome": "Enzo",
+      "cpf": "91959361066"
+    },
+    {
+      "id": 4,
+      "Nome": "Elza",
+      "cpf": "14984048042"
+    }
+  ],
+  "Blacklist": [
+    {
+      "id": 2,
+      "Nome": "Bruno",
+      "date": "1666502078",
+      "Status": "Banido Temporariamente"
+    },
+    {
+      "id": 4,
+      "Nome": "Levi",
+      "date": "1666501551",
+      "Status": "Banido Permantemente"
+    }
+  ],
+  "Logs": [
+    {
+      "id": 0,
+      "Nome": "Weslley",
+      "msg": "Acesso Revogado ",
+      "by": "Otilio"
+    },
+    {
+      "id": 0,
+      "Nome": "Vinicius",
+      "msg": "Agora é moderados",
+      "by": "Bruno"
+    }
+  ],
+  "Services": [
+    {
+      "id": 0,
+      "Nome": "Cozinheiro",
+      "User_ative": 100,
+      "Descrição": "Um cozinheiro é o profissional que prepara os mais diversos tipos de pratos culinários - refeição, lanche, sobremesa, entrada, salada, acompanhamento e outros. Está sob a responsabilidade do cozinheiro manipular e temperar alimentos, verificar o estado de conservação dos ingredientes, gerenciar estoque de produtos, manipular utensílios de cozinha, manter a organização e limpeza do ambiente de trabalho."
+    },
+    {
+      "id": 1,
+      "Nome": "Garçom",
+      "User_ative": 1000,
+      "Descrição": "Serve alimentos e bebidas aos clientes, anota pedidos e organiza e limpa mesas e cadeiras em restaurantes, bares, hotéis e eventos."
+    }
+  ]
+}
