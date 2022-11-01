@@ -1,16 +1,16 @@
-![Hello Service](https://user-images.githubusercontent.com/48967791/188336206-56c5a4d7-8830-4e32-928e-5eb6f3110694.png)
+# app
 
-## 🥂 Plataforma de serviços com foco em atendimento de restaurantes sob demanda 🍴 ##
+A new Flutter project.
 
-### Colaboradores ###
+## Getting Started
 
-<a href="https://github.com/Brunodrc" target="_blank">Brunodrc</a><br/>
-<a href="https://github.com/MathLevi20" target="_blank">MathLevi20</a><br/>
-<a href="https://github.com/ViniR-RB" target="_blank">ViniR-RB</a><br/>
-<a href="https://github.com/Weslley-David" target="_blank">Weslley-David</a>
+This project is a starting point for a Flutter application.
 
-### Informações Adicionais ###
+A few resources to get you started if this is your first Flutter project:
 
-<a href="https://www.figma.com/file/baN3nXA1MCxhm0tP3tsqAy/Hello-Service?node-id=0%3A1" target="_blank">Wireframes</a></br>
-<a href="https://docs.google.com/document/d/1trBeHtghoDxm96-NQF_BfkS4ROPoGwr0uIZtoe8wEx0/edit?usp=sharing" target="_blank">Documento</a>
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
